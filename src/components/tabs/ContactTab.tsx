@@ -1,5 +1,7 @@
 import { useState, type FormEvent } from 'react'
 
+const base = import.meta.env.BASE_URL
+
 const INTEREST_OPTIONS = [
   'Market Analytics & Forecasts',
   'Investment Pipeline Tracking',
@@ -59,6 +61,7 @@ export function ContactTab() {
     <div className="flex-1 min-h-0 overflow-y-auto bg-gradient-to-b from-gray-50 to-white">
       {/* Hero */}
       <div className="bg-safari-dark text-white px-6 py-10 text-center">
+        <img src={`${base}afcen-icon.svg`} alt="AfCEN" className="w-16 h-16 mx-auto mb-4" />
         <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-title)] leading-tight mb-3">
           Access Africa's Premier Data Centre Intelligence
         </h2>
@@ -206,9 +209,12 @@ export function ContactTab() {
       <div className="bg-safari-dark text-white px-6 py-6 mt-8">
         <div className="max-w-6xl mx-auto flex flex-wrap gap-8 justify-between items-start text-[11px]">
           <div>
-            <div className="font-bold text-sm mb-2">AfCEN</div>
+            <div className="flex items-center gap-2 mb-2">
+              <img src={`${base}afcen-icon.svg`} alt="AfCEN" className="w-7 h-7" />
+              <img src={`${base}afcen-full.png`} alt="Africa Climate and Energy Nexus" className="h-5 opacity-90" />
+            </div>
             <div className="text-gray-400 leading-relaxed max-w-xs">
-              Africa Climate and Energy Nexus — Powering informed investment in Africa's digital infrastructure.
+              Powering informed investment in Africa's digital infrastructure.
             </div>
           </div>
           <div>

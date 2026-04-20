@@ -8,6 +8,8 @@ import { STATUS_COLORS, TIER_COLORS } from './utils/colors'
 import { formatMW, formatCurrency, formatScore } from './utils/formatters'
 import type { Facility, Country } from './types'
 
+const base = import.meta.env.BASE_URL
+
 const SovereignTab = lazy(() => import('./components/tabs/SovereignTab').then(m => ({ default: m.SovereignTab })))
 const EnablingTab = lazy(() => import('./components/tabs/EnablingTab').then(m => ({ default: m.EnablingTab })))
 const IntelligenceTab = lazy(() => import('./components/tabs/IntelligenceTab').then(m => ({ default: m.IntelligenceTab })))
@@ -22,7 +24,7 @@ export default function App() {
     <>
       <header className="bg-safari-dark text-white px-4 py-2 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-3">
-          <img src="/afcen-icon.svg" alt="AfCEN" className="w-9 h-9" />
+          <img src={`${base}afcen-icon.svg`} alt="AfCEN" className="w-9 h-9" />
           <div>
             <h1 className="text-sm font-semibold font-[family-name:var(--font-title)] leading-tight tracking-wide">InvestIQ: Data Centres</h1>
             <p className="text-[10px] text-gray-400">Africa Data Centre Intelligence Platform</p>
@@ -30,7 +32,7 @@ export default function App() {
         </div>
         <div className="hidden sm:flex items-center gap-2 text-[10px] text-gray-400">
           <span>Powered by</span>
-          <img src="/afcen-full.png" alt="Africa Climate and Energy Nexus" className="h-6 opacity-80" />
+          <img src={`${base}afcen-full.png`} alt="Africa Climate and Energy Nexus" className="h-6 opacity-80" />
         </div>
       </header>
 
