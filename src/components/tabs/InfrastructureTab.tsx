@@ -122,7 +122,7 @@ export function InfrastructureTab({ activeTab, onFacilityClick }: Props) {
           ))}
           <div className="flex items-center gap-1.5 border-t border-gray-200 pt-1">
             <svg width="16" height="4"><line x1="0" y1="2" x2="16" y2="2" stroke="#00BFFF" strokeWidth="2" strokeDasharray="3,3" /></svg>
-            Hub Sharing Links
+            DC Sharing Links
           </div>
           {showGrid && <div className="flex items-center gap-1.5"><span className="w-4 h-0.5 bg-amber-500" /> Transmission Lines</div>}
           {showFibre && <div className="flex items-center gap-1.5"><span className="w-4 h-0.5 bg-violet-500" /> Fibre Optic</div>}

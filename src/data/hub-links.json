@@ -1,16 +1,51 @@
 [
-  { "from": "SEN", "fromName": "Senegal", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
-  { "from": "UGA", "fromName": "Uganda", "to": "KEN", "toName": "Kenya", "hub": "Nairobi" },
-  { "from": "RWA", "fromName": "Rwanda", "to": "KEN", "toName": "Kenya", "hub": "Nairobi/Kigali" },
-  { "from": "ZWE", "fromName": "Zimbabwe", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
-  { "from": "ZMB", "fromName": "Zambia", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "BEN", "fromName": "Benin", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "CMR", "fromName": "Cameroon", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "TCD", "fromName": "Chad", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "GNQ", "fromName": "Equatorial Guinea", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "GAB", "fromName": "Gabon", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "NER", "fromName": "Niger", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "STP", "fromName": "Sao Tome & Principe", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+
+  { "from": "BWA", "fromName": "Botswana", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "SWZ", "fromName": "Eswatini", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "LSO", "fromName": "Lesotho", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "MWI", "fromName": "Malawi", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
   { "from": "MOZ", "fromName": "Mozambique", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
   { "from": "NAM", "fromName": "Namibia", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
-  { "from": "BWA", "fromName": "Botswana", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
-  { "from": "MWI", "fromName": "Malawi", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
-  { "from": "CMR", "fromName": "Cameroon", "to": "COD", "toName": "DR Congo", "hub": "Kinshasa" },
-  { "from": "GAB", "fromName": "Gabon", "to": "COD", "toName": "DR Congo", "hub": "Kinshasa" },
-  { "from": "SDN", "fromName": "Sudan", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" },
+  { "from": "ZMB", "fromName": "Zambia", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "ZWE", "fromName": "Zimbabwe", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+
+  { "from": "BFA", "fromName": "Burkina Faso", "to": "CIV", "toName": "Cote d'Ivoire", "hub": "Abidjan" },
+  { "from": "GIN", "fromName": "Guinea", "to": "CIV", "toName": "Cote d'Ivoire", "hub": "Abidjan" },
+  { "from": "LBR", "fromName": "Liberia", "to": "CIV", "toName": "Cote d'Ivoire", "hub": "Abidjan" },
+  { "from": "MLI", "fromName": "Mali", "to": "CIV", "toName": "Cote d'Ivoire", "hub": "Abidjan" },
+  { "from": "SLE", "fromName": "Sierra Leone", "to": "CIV", "toName": "Cote d'Ivoire", "hub": "Abidjan" },
+
+  { "from": "COM", "fromName": "Comoros", "to": "KEN", "toName": "Kenya", "hub": "Nairobi" },
+  { "from": "COD", "fromName": "DR Congo", "to": "KEN", "toName": "Kenya", "hub": "Nairobi" },
+  { "from": "SOM", "fromName": "Somalia", "to": "KEN", "toName": "Kenya", "hub": "Nairobi" },
+  { "from": "SSD", "fromName": "South Sudan", "to": "KEN", "toName": "Kenya", "hub": "Nairobi" },
+
   { "from": "DJI", "fromName": "Djibouti", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" },
-  { "from": "SOM", "fromName": "Somalia", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" }
+  { "from": "ERI", "fromName": "Eritrea", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" },
+  { "from": "SDN", "fromName": "Sudan", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" },
+
+  { "from": "CPV", "fromName": "Cabo Verde", "to": "SEN", "toName": "Senegal", "hub": "Dakar" },
+  { "from": "GMB", "fromName": "Gambia", "to": "SEN", "toName": "Senegal", "hub": "Dakar" },
+  { "from": "GNB", "fromName": "Guinea-Bissau", "to": "SEN", "toName": "Senegal", "hub": "Dakar" },
+
+  { "from": "CAF", "fromName": "Central African Republic", "to": "COD", "toName": "DR Congo", "hub": "Kinshasa" },
+  { "from": "COG", "fromName": "Republic of Congo", "to": "COD", "toName": "DR Congo", "hub": "Kinshasa" },
+
+  { "from": "BDI", "fromName": "Burundi", "to": "RWA", "toName": "Rwanda", "hub": "Kigali" },
+
+  { "from": "TGO", "fromName": "Togo", "to": "GHA", "toName": "Ghana", "hub": "Accra" },
+
+  { "from": "LBY", "fromName": "Libya", "to": "TUN", "toName": "Tunisia", "hub": "Tunis" },
+
+  { "from": "MRT", "fromName": "Mauritania", "to": "MAR", "toName": "Morocco", "hub": "Casablanca" },
+
+  { "from": "MDG", "fromName": "Madagascar", "to": "MUS", "toName": "Mauritius", "hub": "Mauritius" },
+  { "from": "SYC", "fromName": "Seychelles", "to": "MUS", "toName": "Mauritius", "hub": "Mauritius" }
 ]
