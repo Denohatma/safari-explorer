@@ -1,0 +1,16 @@
+[
+  { "from": "SEN", "fromName": "Senegal", "to": "NGA", "toName": "Nigeria", "hub": "Lagos" },
+  { "from": "UGA", "fromName": "Uganda", "to": "KEN", "toName": "Kenya", "hub": "Nairobi" },
+  { "from": "RWA", "fromName": "Rwanda", "to": "KEN", "toName": "Kenya", "hub": "Nairobi/Kigali" },
+  { "from": "ZWE", "fromName": "Zimbabwe", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "ZMB", "fromName": "Zambia", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "MOZ", "fromName": "Mozambique", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "NAM", "fromName": "Namibia", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "BWA", "fromName": "Botswana", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "MWI", "fromName": "Malawi", "to": "ZAF", "toName": "South Africa", "hub": "Johannesburg" },
+  { "from": "CMR", "fromName": "Cameroon", "to": "COD", "toName": "DR Congo", "hub": "Kinshasa" },
+  { "from": "GAB", "fromName": "Gabon", "to": "COD", "toName": "DR Congo", "hub": "Kinshasa" },
+  { "from": "SDN", "fromName": "Sudan", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" },
+  { "from": "DJI", "fromName": "Djibouti", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" },
+  { "from": "SOM", "fromName": "Somalia", "to": "ETH", "toName": "Ethiopia", "hub": "Addis Ababa" }
+]

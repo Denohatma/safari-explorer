@@ -1,0 +1,153 @@
+{
+  "sectorOutlook": {
+    "globalMarket": {
+      "value2025Bn": 243,
+      "projectedDoublingBy": 2032,
+      "totalInvestment5YrTrn": 3.0,
+      "hyperscaleSharePct": 33,
+      "dcProjectsFDISharePct": 20
+    },
+    "africaMarket": {
+      "value2024Bn": 3.49,
+      "value2030Bn": 6.81,
+      "cagrPct": 11.8,
+      "installedCapacityMW": 1254,
+      "activeCapacityMW": 360,
+      "globalSharePct": 0.6,
+      "facilitiesCount": "220–230",
+      "countriesWithFacilities": 38,
+      "demandGrowthBy2030": "3.5–5.5x to 1.5–2.2 GW",
+      "newInvestmentNeededBn": "10–20",
+      "africaAIFundBn": 60,
+      "smallDCSharePct": "60–70% will be <50 MW"
+    },
+    "topMarkets": [
+      { "country": "South Africa", "code": "ZAF", "facilities": 61, "marketValueM": 580, "capacityMW": 400, "growthNote": "$0.58B → $1.25B by 2030 (CAGR 16.6%)" },
+      { "country": "Nigeria", "code": "NGA", "facilities": 25, "marketValueM": 278, "capacityMW": null, "growthNote": "Capacity set to explode 6x to 400 MW by 2030" },
+      { "country": "Egypt", "code": "EGY", "facilities": null, "marketValueM": 223, "capacityMW": null, "growthNote": "$694M market by 2030; 19 subsea cable connections" },
+      { "country": "Kenya", "code": "KEN", "facilities": 19, "marketValueM": 50, "capacityMW": null, "growthNote": "Geothermal advantage; Oracle + Microsoft/G42 campuses" },
+      { "country": "Ethiopia", "code": "ETH", "facilities": null, "marketValueM": 95, "capacityMW": null, "growthNote": "$226M market by 2028; near-100% RE grid" }
+    ],
+    "keyDrivers": [
+      { "driver": "AI & Cloud Demand", "detail": "AI workloads require higher power density and advanced cooling; McKinsey projects 70% of incremental DC growth tied to AI" },
+      { "driver": "Data Sovereignty", "detail": "40+ African countries have data protection laws; 19 ratified Malabo Convention; localisation requirements driving in-country builds" },
+      { "driver": "Submarine Cables", "detail": "2Africa, Equiano, PEACE, and Google's Africa-Australia cable expanding bandwidth and reducing latency" },
+      { "driver": "Renewable Energy", "detail": "Power overtaking connectivity as biggest constraint; operators turning to PPAs, solar, geothermal — DCs as anchor customers for grid investment" },
+      { "driver": "Hyperscaler Entry", "detail": "AWS, Azure, Google Cloud, Oracle expanding African footprints; all major cloud providers now have or plan Africa regions" },
+      { "driver": "Blended Finance", "detail": "DFIs (IFC, US DFC, Proparco) de-risking Africa DC investments; $60B Africa AI Fund as catalytic vehicle" }
+    ],
+    "keyRisks": [
+      { "risk": "Power Reliability", "detail": "Reliable electricity is the #1 constraint; many markets depend on diesel backup, adding $0.15–0.30/kWh to OPEX" },
+      { "risk": "Regulatory Fragmentation", "detail": "54 countries with varying data protection, permitting, and investment frameworks increase complexity" },
+      { "risk": "Skills Gap", "detail": "Shortage of DC engineers, cooling specialists, and cybersecurity professionals; brain drain ongoing" },
+      { "risk": "Currency & FX Risk", "detail": "Most African currencies volatile against USD; long-term PPA and lease pricing exposed to FX movements" },
+      { "risk": "Concentration Risk", "detail": "SA + Nigeria + Kenya hold ~65% of capacity; secondary markets underdeveloped" }
+    ]
+  },
+  "events": [
+    {
+      "id": "e1",
+      "name": "GITEX Africa 2026",
+      "subtitle": "Smart Data Centres Africa Programme",
+      "date": "2026-05-14",
+      "endDate": "2026-05-16",
+      "location": "Marrakech, Morocco",
+      "type": "Conference",
+      "description": "Africa's largest tech conference featuring a dedicated 'Smart Data Centres Africa' programme positioning DCs as critical digital infrastructure.",
+      "relevance": "Hyperscaler announcements, policy showcases, Oracle Morocco launch momentum",
+      "url": "https://gitexafrica.com",
+      "status": "upcoming"
+    },
+    {
+      "id": "e2",
+      "name": "Pan African DataCentres Exhibition & Conference",
+      "subtitle": "PADCE 2026",
+      "date": "2026-06-23",
+      "endDate": "2026-06-24",
+      "location": "Johannesburg, South Africa",
+      "type": "Exhibition",
+      "description": "Dedicated DC sector exhibition covering investment, construction, power, cooling, and connectivity for the African market.",
+      "relevance": "SA investment pipeline showcase; Equinix, Teraco, Vantage, ADC expected",
+      "url": "https://panafrican-datacentres.com",
+      "status": "upcoming"
+    },
+    {
+      "id": "e3",
+      "name": "Africa Energy Week 2026",
+      "subtitle": "Data Centres & Power Markets",
+      "date": "2026-10-14",
+      "endDate": "2026-10-17",
+      "location": "Cape Town, South Africa",
+      "type": "Conference",
+      "description": "Energy sector event with new track on how data centres are reshaping African power markets — DCs as anchor customers for grid investment.",
+      "relevance": "PPA structuring, renewable integration, DC-as-grid-anchor business model",
+      "url": "https://aew2026.com",
+      "status": "upcoming"
+    },
+    {
+      "id": "e4",
+      "name": "AfricaCom / Africa Tech Festival 2026",
+      "subtitle": "Digital Infrastructure & Cloud Summit",
+      "date": "2026-11-11",
+      "endDate": "2026-11-13",
+      "location": "Cape Town, South Africa",
+      "type": "Conference",
+      "description": "Africa's premier connectivity and digital infrastructure event — cloud, edge compute, fibre, and DC investment tracks.",
+      "relevance": "Telco-DC convergence, edge DC roll-out, 5G infrastructure",
+      "url": "https://tmt.knect365.com/africacom",
+      "status": "upcoming"
+    },
+    {
+      "id": "e5",
+      "name": "Africa Declaration on AI — Kigali",
+      "subtitle": "$60B Africa AI Fund Announcement",
+      "date": "2025-04-04",
+      "endDate": "2025-04-04",
+      "location": "Kigali, Rwanda",
+      "type": "Policy",
+      "description": "African Union adopted the Africa Declaration on AI with commitments to sovereign compute, regional AI hubs, and $60B Africa AI Fund.",
+      "relevance": "Foundational policy for sovereign AI DC investment across the continent",
+      "url": "https://au.int/en/newsevents/20250404/africa-declaration-artificial-intelligence",
+      "status": "past"
+    },
+    {
+      "id": "e6",
+      "name": "DCD>Connect Africa 2025",
+      "subtitle": "Data Centre Construction & Design",
+      "date": "2025-09-17",
+      "endDate": "2025-09-18",
+      "location": "Johannesburg, South Africa",
+      "type": "Conference",
+      "description": "DataCentre Dynamics event focused on DC construction, design, and operations for the African market.",
+      "relevance": "Construction pipeline, cooling innovation, SA market deep-dive",
+      "url": "https://www.datacenterdynamics.com/en/dcd-connect/africa/",
+      "status": "past"
+    },
+    {
+      "id": "e7",
+      "name": "East Africa Data Centre Summit 2025",
+      "subtitle": "Nairobi DC Investment Forum",
+      "date": "2025-07-09",
+      "endDate": "2025-07-10",
+      "location": "Nairobi, Kenya",
+      "type": "Conference",
+      "description": "Regional summit covering East Africa DC investment, geothermal power integration, and sovereign cloud strategies.",
+      "relevance": "Microsoft/G42 progress update, iXAfrica DC2 launch, Oracle Kenya region",
+      "url": "https://eastafricadcsummit.com",
+      "status": "past"
+    },
+    {
+      "id": "e8",
+      "name": "ADCA Annual Conference 2026",
+      "subtitle": "Data Centres in Africa — The Economic Report Launch",
+      "date": "2026-02-20",
+      "endDate": "2026-02-21",
+      "location": "Virtual / Johannesburg",
+      "type": "Report Launch",
+      "description": "Africa Data Centres Association launched the 2026 Economic Report covering 220–230 facilities across 38 countries.",
+      "relevance": "Benchmark data, capacity metrics, policy advocacy",
+      "url": "https://africadca.org/data-centres-in-africa-2026",
+      "status": "past"
+    }
+  ]
+}

@@ -1,0 +1,3296 @@
+[
+  {
+    "name": "South Africa",
+    "code": "ZAF",
+    "gdp": 400,
+    "dmFactor": 2.0,
+    "internetPct": 72,
+    "sadmWeight": 576.0,
+    "totalDemandMW": 456,
+    "sovereignMW": 160,
+    "commercialMW": 296,
+    "electricityTariff": 0.13,
+    "annualOpex": 31.9,
+    "meetsMVS": true,
+    "recDCs": 10,
+    "sharingHub": null,
+    "d5Score": 5,
+    "d12Score": 4,
+    "policyReadiness": 4.5,
+    "d5Details": {
+      "dataProtection": {
+        "score": 5,
+        "label": "POPIA enforced since 2021"
+      },
+      "permitting": {
+        "score": 5,
+        "label": "<6 months"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "75th percentile"
+      },
+      "politicalStability": {
+        "score": 4,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 5,
+        "label": "Multiple SEZs with >10yr incentives"
+      },
+      "cyberLaw": {
+        "score": 5,
+        "label": "Comprehensive Cybercrimes Act"
+      }
+    },
+    "d12Details": "Mature armed response (ADT, Fidelity, G4S), active CSIRT, comprehensive security regulation, international insurance available.",
+    "dmRationale": "Mature ecosystem, hyperscaler presence, ISO-certified DCs, funded national AI strategy",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 5,
+      "D3": 5,
+      "D4": 4,
+      "D5": 5,
+      "D6": 5,
+      "D7": 5,
+      "D8": 5,
+      "D9": 4,
+      "D10": 5,
+      "D11": 4
+    },
+    "avgDimensionScore": 4.5
+  },
+  {
+    "name": "Nigeria",
+    "code": "NGA",
+    "gdp": 500,
+    "dmFactor": 1.5,
+    "internetPct": 64,
+    "sadmWeight": 480.0,
+    "totalDemandMW": 380,
+    "sovereignMW": 133,
+    "commercialMW": 247,
+    "electricityTariff": 0.35,
+    "annualOpex": 85.8,
+    "meetsMVS": true,
+    "recDCs": 8,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 2,
+    "policyReadiness": 2.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "NDPR 2019 \u2014 enforcement inconsistent"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "35th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Moderate risk"
+      },
+      "sezIncentives": {
+        "score": 4,
+        "label": "Lekki, Eko Atlantic SEZs"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Cybercrimes Act 2015"
+      }
+    },
+    "d12Details": "Very high organised crime and armed robbery risk in industrial zones. ngCERT active but inconsistent. Lagos DCs must budget $5-10M in proprietary security.",
+    "dmRationale": "National AI strategy, data protection law, growing hyperscaler footprint",
+    "dimensionScores": {
+      "D1": 1,
+      "D2": 4,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 5,
+      "D7": 5,
+      "D8": 3,
+      "D9": 3,
+      "D10": 5,
+      "D11": 2
+    },
+    "avgDimensionScore": 3.3
+  },
+  {
+    "name": "Egypt",
+    "code": "EGY",
+    "gdp": 400,
+    "dmFactor": 1.5,
+    "internetPct": 75,
+    "sadmWeight": 450.0,
+    "totalDemandMW": 356,
+    "sovereignMW": 125,
+    "commercialMW": 231,
+    "electricityTariff": 0.02,
+    "annualOpex": 4.9,
+    "meetsMVS": true,
+    "recDCs": 8,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 3.2,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "DP Law 2020 \u2014 enforcement developing"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "45th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 4,
+        "label": "Suez Canal Economic Zone"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Anti-Cyber Crime Law 2018"
+      }
+    },
+    "d12Details": "Strong physical security culture but incomplete cyber CERT and bureaucratic emergency response.",
+    "dmRationale": "National AI strategy, data protection law, growing hyperscaler footprint",
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 5,
+      "D3": 4,
+      "D4": 3,
+      "D5": 3,
+      "D6": 5,
+      "D7": 5,
+      "D8": 4,
+      "D9": 3,
+      "D10": 5,
+      "D11": 3
+    },
+    "avgDimensionScore": 4.1
+  },
+  {
+    "name": "Morocco",
+    "code": "MAR",
+    "gdp": 140,
+    "dmFactor": 1.5,
+    "internetPct": 88,
+    "sadmWeight": 184.8,
+    "totalDemandMW": 146,
+    "sovereignMW": 51,
+    "commercialMW": 95,
+    "electricityTariff": 0.14,
+    "annualOpex": 34.3,
+    "meetsMVS": true,
+    "recDCs": 3,
+    "sharingHub": null,
+    "d5Score": 5,
+    "d12Score": 4,
+    "policyReadiness": 4.3,
+    "d5Details": {
+      "dataProtection": {
+        "score": 5,
+        "label": "Law 09-08 enforced, CNDP active"
+      },
+      "permitting": {
+        "score": 4,
+        "label": "<6 months in Casablanca SEZ"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "65th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Stable monarchy"
+      },
+      "sezIncentives": {
+        "score": 5,
+        "label": "Casablanca Finance City, Tangier"
+      },
+      "cyberLaw": {
+        "score": 4,
+        "label": "Law 05-20 on cybersecurity"
+      }
+    },
+    "d12Details": "Low crime, stable governance, growing CERT capability in Casablanca industrial corridor.",
+    "dmRationale": "National AI strategy, data protection law, growing hyperscaler footprint",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 5,
+      "D3": 4,
+      "D4": 3,
+      "D5": 5,
+      "D6": 5,
+      "D7": 4,
+      "D8": 5,
+      "D9": 4,
+      "D10": 5,
+      "D11": 4
+    },
+    "avgDimensionScore": 4.3
+  },
+  {
+    "name": "Algeria",
+    "code": "DZA",
+    "gdp": 170,
+    "dmFactor": 1.2,
+    "internetPct": 68,
+    "sadmWeight": 138.7,
+    "totalDemandMW": 110,
+    "sovereignMW": 39,
+    "commercialMW": 72,
+    "electricityTariff": 0.04,
+    "annualOpex": 9.8,
+    "meetsMVS": true,
+    "recDCs": 3,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 2.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Draft DP law \u2014 not yet enacted"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201324 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "40th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Post-Hirak stability"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Limited SEZ framework"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Digital economy act in progress"
+      }
+    },
+    "d12Details": "Moderate security environment. Limited CERT development.",
+    "dmRationale": "Strategy present, infrastructure developing",
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 4,
+      "D3": 2,
+      "D4": 2,
+      "D5": 3,
+      "D6": 5,
+      "D7": 4,
+      "D8": 3,
+      "D9": 3,
+      "D10": 5,
+      "D11": 3
+    },
+    "avgDimensionScore": 3.5
+  },
+  {
+    "name": "Kenya",
+    "code": "KEN",
+    "gdp": 120,
+    "dmFactor": 1.5,
+    "internetPct": 42,
+    "sadmWeight": 75.6,
+    "totalDemandMW": 60,
+    "sovereignMW": 21,
+    "commercialMW": 39,
+    "electricityTariff": 0.19,
+    "annualOpex": 46.6,
+    "meetsMVS": true,
+    "recDCs": 2,
+    "sharingHub": null,
+    "d5Score": 5,
+    "d12Score": 4,
+    "policyReadiness": 4.2,
+    "d5Details": {
+      "dataProtection": {
+        "score": 5,
+        "label": "Data Protection Act 2019 enforced"
+      },
+      "permitting": {
+        "score": 4,
+        "label": "6\u20139 months"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "55th percentile"
+      },
+      "politicalStability": {
+        "score": 4,
+        "label": "Stable with electoral cycle"
+      },
+      "sezIncentives": {
+        "score": 5,
+        "label": "Konza Technopolis, Tatu City"
+      },
+      "cyberLaw": {
+        "score": 4,
+        "label": "Computer Misuse & Cybercrimes Act"
+      }
+    },
+    "d12Details": "Functional armed response within 10-15 minutes, improving CERT, rising investor confidence.",
+    "dmRationale": "National AI strategy, data protection law, growing hyperscaler footprint",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 3,
+      "D3": 4,
+      "D4": 3,
+      "D5": 5,
+      "D6": 4,
+      "D7": 4,
+      "D8": 5,
+      "D9": 4,
+      "D10": 4,
+      "D11": 4
+    },
+    "avgDimensionScore": 3.8
+  },
+  {
+    "name": "Rwanda",
+    "code": "RWA",
+    "gdp": 12,
+    "dmFactor": 1.2,
+    "internetPct": 30,
+    "sadmWeight": 4.3,
+    "totalDemandMW": 45,
+    "sovereignMW": 30,
+    "commercialMW": 15,
+    "electricityTariff": 0.19,
+    "annualOpex": 46.6,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 4,
+    "d12Score": 5,
+    "policyReadiness": 4.2,
+    "d5Details": {
+      "dataProtection": {
+        "score": 4,
+        "label": "Law N\u00b0058/2021 enforced"
+      },
+      "permitting": {
+        "score": 5,
+        "label": "<3 months in Kigali Innovation City"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "70th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Very stable"
+      },
+      "sezIncentives": {
+        "score": 5,
+        "label": "Kigali Innovation City, KSZ"
+      },
+      "cyberLaw": {
+        "score": 4,
+        "label": "Law N\u00b060/2018 on cybersecurity"
+      }
+    },
+    "d12Details": "Lowest property crime in East Africa. Presidential Guard proximity. Active RISA CERT. D12=5 makes Kigali the recommended EAC shared hub host.",
+    "dmRationale": "Kigali Innovation City, EAC shared compute hub candidate, strong AI/digital strategy, highest D12 in East Africa",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 5,
+      "D4": 3,
+      "D5": 4,
+      "D6": 3,
+      "D7": 2,
+      "D8": 5,
+      "D9": 4,
+      "D10": 4,
+      "D11": 4
+    },
+    "avgDimensionScore": 3.5
+  },
+  {
+    "name": "Angola",
+    "code": "AGO",
+    "gdp": 80,
+    "dmFactor": 0.8,
+    "internetPct": 36,
+    "sadmWeight": 23.0,
+    "totalDemandMW": 40,
+    "sovereignMW": 25,
+    "commercialMW": 15,
+    "electricityTariff": 0.01,
+    "annualOpex": 2.5,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 22/11 \u2014 minimal enforcement"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201324 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "25th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Luanda-Bengo SEZ limited"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic framework"
+      }
+    },
+    "d12Details": "Limited security infrastructure. Very low electricity tariff advantage.",
+    "dmRationale": "Angola Cables (SACS, MONET), ultra-low electricity tariff, oil revenue diversification into digital",
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 3,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 3,
+      "D7": 3,
+      "D8": 2,
+      "D9": 2,
+      "D10": 4,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.7
+  },
+  {
+    "name": "Ghana",
+    "code": "GHA",
+    "gdp": 75,
+    "dmFactor": 1.2,
+    "internetPct": 55,
+    "sadmWeight": 49.5,
+    "totalDemandMW": 39,
+    "sovereignMW": 14,
+    "commercialMW": 25,
+    "electricityTariff": 0.17,
+    "annualOpex": 41.7,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 3.3,
+    "d5Details": {
+      "dataProtection": {
+        "score": 4,
+        "label": "Data Protection Act 2012 \u2014 enforced"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "60th percentile"
+      },
+      "politicalStability": {
+        "score": 4,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Dawa Industrial Zone"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Cybersecurity Act 2020"
+      }
+    },
+    "d12Details": "Functional security with moderate gaps. Low crime relative to West Africa.",
+    "dmRationale": "Strategy present, infrastructure developing",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 4,
+      "D3": 3,
+      "D4": 3,
+      "D5": 3,
+      "D6": 3,
+      "D7": 3,
+      "D8": 4,
+      "D9": 3,
+      "D10": 3,
+      "D11": 4
+    },
+    "avgDimensionScore": 3.2
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZA",
+    "gdp": 80,
+    "dmFactor": 1.2,
+    "internetPct": 51,
+    "sadmWeight": 49.0,
+    "totalDemandMW": 39,
+    "sovereignMW": 14,
+    "commercialMW": 25,
+    "electricityTariff": 0.11,
+    "annualOpex": 27.0,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 3.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "Cybercrimes Act 2015 \u2014 partial DP"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "45th percentile"
+      },
+      "politicalStability": {
+        "score": 4,
+        "label": "Stable under Samia"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Bagamoyo SEZ planned"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Electronic & Postal Communications Act"
+      }
+    },
+    "d12Details": "Functional security environment. Moderate organised crime risk.",
+    "dmRationale": "Strategy present, infrastructure developing",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 4,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 3,
+      "D7": 3,
+      "D8": 4,
+      "D9": 3,
+      "D10": 3,
+      "D11": 4
+    },
+    "avgDimensionScore": 3.2
+  },
+  {
+    "name": "Senegal",
+    "code": "SEN",
+    "gdp": 30,
+    "dmFactor": 1.0,
+    "internetPct": 56,
+    "sadmWeight": 16.8,
+    "totalDemandMW": 38,
+    "sovereignMW": 25,
+    "commercialMW": 13,
+    "electricityTariff": 0.17,
+    "annualOpex": 41.7,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 3.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 4,
+        "label": "Law 2008-12 \u2014 CDP active"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "50th percentile"
+      },
+      "politicalStability": {
+        "score": 4,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Diamniadio Digital Park"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Cyber law 2008"
+      }
+    },
+    "d12Details": "Moderate security. Functional basic services.",
+    "dmRationale": "Diamniadio Digital Park, emerging tech hub, Senegal Numerique 2025 strategy, submarine cable hub",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 4,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 3,
+      "D7": 3,
+      "D8": 4,
+      "D9": 3,
+      "D10": 3,
+      "D11": 4
+    },
+    "avgDimensionScore": 3.1
+  },
+  {
+    "name": "Uganda",
+    "code": "UGA",
+    "gdp": 50,
+    "dmFactor": 0.8,
+    "internetPct": 47,
+    "sadmWeight": 18.8,
+    "totalDemandMW": 35,
+    "sovereignMW": 22,
+    "commercialMW": 13,
+    "electricityTariff": 0.17,
+    "annualOpex": 41.7,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 2.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "Data Protection Act 2019"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "35th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Namanve Industrial Park"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Computer Misuse Act 2011"
+      }
+    },
+    "d12Details": "Functional security with notable gaps. Moderate crime.",
+    "dmRationale": "National 4IR Strategy, Data Protection Act 2019, growing ICT sector, EAC member",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 3,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 3,
+      "D7": 3,
+      "D8": 3,
+      "D9": 3,
+      "D10": 3,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.7
+  },
+  {
+    "name": "Tunisia",
+    "code": "TUN",
+    "gdp": 50,
+    "dmFactor": 1.2,
+    "internetPct": 69,
+    "sadmWeight": 41.4,
+    "totalDemandMW": 33,
+    "sovereignMW": 12,
+    "commercialMW": 21,
+    "electricityTariff": 0.08,
+    "annualOpex": 19.6,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 3.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "Organic Law 2004 \u2014 outdated"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "50th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Political transition ongoing"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Bizerte, Enfidha zones"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Basic cyber law"
+      }
+    },
+    "d12Details": "Moderate security environment with functional but limited services.",
+    "dmRationale": "Strategy present, infrastructure developing",
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 4,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 3,
+      "D7": 3,
+      "D8": 4,
+      "D9": 3,
+      "D10": 3,
+      "D11": 2
+    },
+    "avgDimensionScore": 3.1
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ETH",
+    "gdp": 155,
+    "dmFactor": 1.2,
+    "internetPct": 22,
+    "sadmWeight": 40.9,
+    "totalDemandMW": 32,
+    "sovereignMW": 11,
+    "commercialMW": 21,
+    "electricityTariff": 0.05,
+    "annualOpex": 12.3,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 2,
+    "policyReadiness": 2.5,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Proclamation 1072/2018 \u2014 limited"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "30th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Post-conflict, improving"
+      },
+      "sezIncentives": {
+        "score": 4,
+        "label": "Bole Lemi, Hawassa Industrial Parks"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Computer Crime Proclamation"
+      }
+    },
+    "d12Details": "Post-Tigray conflict legacy creates residual political and operational security risk. Ethio Telecom infrastructure was targeted.",
+    "dmRationale": "Strategy present, infrastructure developing",
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 2,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 3,
+      "D7": 2,
+      "D8": 3,
+      "D9": 2,
+      "D10": 3,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.7
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "code": "CIV",
+    "gdp": 70,
+    "dmFactor": 1.2,
+    "internetPct": 46,
+    "sadmWeight": 38.6,
+    "totalDemandMW": 31,
+    "sovereignMW": 11,
+    "commercialMW": 20,
+    "electricityTariff": 0.17,
+    "annualOpex": 41.7,
+    "meetsMVS": true,
+    "recDCs": 1,
+    "sharingHub": null,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 3.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "Law 2013-450 \u2014 moderate enforcement"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "40th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Post-crisis stability"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "PK-24 tech zone"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Loi sur la cybercriminalit\u00e9"
+      }
+    },
+    "d12Details": "Functional security with moderate gaps. West African organised crime risk during construction.",
+    "dmRationale": "Strategy present, infrastructure developing",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 3,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 3,
+      "D7": 3,
+      "D8": 4,
+      "D9": 3,
+      "D10": 3,
+      "D11": 3
+    },
+    "avgDimensionScore": 2.9
+  },
+  {
+    "name": "Mauritius",
+    "code": "MUS",
+    "gdp": 14,
+    "dmFactor": 1.5,
+    "internetPct": 72,
+    "electricityTariff": 0.16,
+    "d5Score": 5,
+    "d12Score": 4,
+    "policyReadiness": 4.5,
+    "sharingHub": null,
+    "d5Details": {
+      "dataProtection": {
+        "score": 5,
+        "label": "Data Protection Act 2017 \u2014 enforced, GDPR-aligned"
+      },
+      "permitting": {
+        "score": 5,
+        "label": "<6 months"
+      },
+      "ruleOfLaw": {
+        "score": 5,
+        "label": "80th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Stable democracy, high governance"
+      },
+      "sezIncentives": {
+        "score": 5,
+        "label": "Cybercity Ebene, multiple tech zones"
+      },
+      "cyberLaw": {
+        "score": 5,
+        "label": "Comprehensive ICT Act, CERT-MU active"
+      }
+    },
+    "d12Details": "Best regulatory environment in Africa. Financial hub. SAFE/LION submarine cables. Small market but high per-capita demand.",
+    "dmRationale": "Financial hub, GDPR-equivalent data protection, Cybercity Ebene, AI strategy 2023, submarine cable nexus",
+    "sadmWeight": 15.1,
+    "totalDemandMW": 18,
+    "sovereignMW": 15,
+    "commercialMW": 3,
+    "annualOpex": 39.2,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 5,
+      "D3": 5,
+      "D4": 4,
+      "D5": 5,
+      "D6": 2,
+      "D7": 2,
+      "D8": 5,
+      "D9": 4,
+      "D10": 3,
+      "D11": 5
+    },
+    "avgDimensionScore": 3.8
+  },
+  {
+    "name": "Cameroon",
+    "code": "CMR",
+    "gdp": 45,
+    "dmFactor": 0.8,
+    "internetPct": 38,
+    "sadmWeight": 13.7,
+    "totalDemandMW": 18,
+    "sovereignMW": 12,
+    "commercialMW": 6,
+    "electricityTariff": 0.12,
+    "annualOpex": 29.4,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Lagos",
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 2010/012 \u2014 minimal enforcement"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201324 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "30th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Anglophone crisis ongoing"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Kribi Industrial Zone"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Law 2010/012"
+      }
+    },
+    "d12Details": "Uncertain governance environment. Moderate organised crime risk.",
+    "dmRationale": "CEMAC's largest economy, Kribi submarine cable, emerging digital strategy",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 3,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 2,
+      "D7": 3,
+      "D8": 2,
+      "D9": 2,
+      "D10": 3,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.4
+  },
+  {
+    "name": "Libya",
+    "code": "LBY",
+    "gdp": 45,
+    "dmFactor": 0.8,
+    "internetPct": 48,
+    "electricityTariff": 0.03,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.2,
+    "sharingHub": "Tunis",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">24 months \u2014 fractured governance"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<15th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Divided government, militia control"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Divided governance between east and west. Armed militias control key infrastructure. Near-uninsurable.",
+    "dmRationale": "Oil wealth potential, but conflict prevents deployment",
+    "sadmWeight": 17.3,
+    "totalDemandMW": 16,
+    "sovereignMW": 10,
+    "commercialMW": 6,
+    "annualOpex": 7.4,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 3,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 2,
+      "D7": 3,
+      "D8": 1,
+      "D9": 1,
+      "D10": 3,
+      "D11": 1
+    },
+    "avgDimensionScore": 2.0
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZWE",
+    "gdp": 25,
+    "dmFactor": 0.8,
+    "internetPct": 50,
+    "sadmWeight": 10.0,
+    "totalDemandMW": 15,
+    "sovereignMW": 10,
+    "commercialMW": 5,
+    "electricityTariff": 0.1,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Johannesburg",
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Cyber and Data Protection Act 2021 \u2014 early"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">24 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "20th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "High political risk"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Limited zones"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Cyber Act 2021"
+      }
+    },
+    "d12Details": "Challenging security environment. Currency instability compounds risk.",
+    "dmRationale": "ICT roadmap exists but economic instability limits investment",
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 4,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 2,
+      "D7": 2,
+      "D8": 2,
+      "D9": 2,
+      "D10": 3,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.5
+  },
+  {
+    "name": "Zambia",
+    "code": "ZMB",
+    "gdp": 30,
+    "dmFactor": 0.5,
+    "internetPct": 24,
+    "sadmWeight": 3.6,
+    "totalDemandMW": 15,
+    "sovereignMW": 10,
+    "commercialMW": 5,
+    "electricityTariff": 0.04,
+    "annualOpex": 9.8,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Johannesburg",
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 2.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "Data Protection Act 2021"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "45th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Lusaka South MFEZ"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Cyber Security Act draft"
+      }
+    },
+    "d12Details": "Moderate security environment. Reasonable for sub-20MW demand.",
+    "dmRationale": "Smart Zambia programme, Data Protection Act 2021, cheap hydro power from Kariba/Kafue",
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 2,
+      "D3": 3,
+      "D4": 2,
+      "D5": 3,
+      "D6": 2,
+      "D7": 2,
+      "D8": 3,
+      "D9": 3,
+      "D10": 3,
+      "D11": 3
+    },
+    "avgDimensionScore": 2.8
+  },
+  {
+    "name": "Gabon",
+    "code": "GAB",
+    "gdp": 20,
+    "dmFactor": 0.8,
+    "internetPct": 62,
+    "sadmWeight": 9.9,
+    "totalDemandMW": 14,
+    "sovereignMW": 10,
+    "commercialMW": 4,
+    "electricityTariff": 0.12,
+    "annualOpex": 29.4,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Lagos",
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.2,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 001/2011 \u2014 limited enforcement"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "30th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Post-coup transition"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Nkok SEZ"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic"
+      }
+    },
+    "d12Details": "Post-coup uncertainty. Limited security services.",
+    "dmRationale": "High GDP per capita for Central Africa, Nkok SEZ, post-coup digital reform ambitions",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 4,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 2,
+      "D7": 2,
+      "D8": 2,
+      "D9": 2,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.3
+  },
+  {
+    "name": "DR Congo",
+    "code": "COD",
+    "gdp": 65,
+    "dmFactor": 0.5,
+    "internetPct": 28,
+    "sadmWeight": 9.1,
+    "totalDemandMW": 12,
+    "sovereignMW": 8,
+    "commercialMW": 4,
+    "electricityTariff": 0.1,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Nairobi",
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">24 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<15th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Active conflict zones"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "No functioning SEZ"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No cyber law"
+      }
+    },
+    "d12Details": "Highest security risk on the continent. Active conflict, no CERT, near-uninsurable.",
+    "dmRationale": "100M+ population potential, but conflict and infrastructure prevent realization",
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 2,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 2,
+      "D7": 3,
+      "D8": 1,
+      "D9": 1,
+      "D10": 2,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.7
+  },
+  {
+    "name": "Botswana",
+    "code": "BWA",
+    "gdp": 20,
+    "dmFactor": 1.0,
+    "internetPct": 66,
+    "sadmWeight": 13.2,
+    "totalDemandMW": 10,
+    "sovereignMW": 4,
+    "commercialMW": 7,
+    "electricityTariff": 0.1,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Johannesburg",
+    "d5Score": 4,
+    "d12Score": 4,
+    "policyReadiness": 3.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 4,
+        "label": "Data Protection Act 2018"
+      },
+      "permitting": {
+        "score": 4,
+        "label": "6\u20139 months"
+      },
+      "ruleOfLaw": {
+        "score": 5,
+        "label": "80th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Very stable democracy"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "SPEDU, SEZA"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Cybercrime Act 2018"
+      }
+    },
+    "d12Details": "Very stable, low crime. Strong governance. Too small for standalone.",
+    "dmRationale": "Moderate readiness, small market",
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 4,
+      "D3": 4,
+      "D4": 3,
+      "D5": 4,
+      "D6": 2,
+      "D7": 2,
+      "D8": 4,
+      "D9": 3,
+      "D10": 2,
+      "D11": 5
+    },
+    "avgDimensionScore": 3.4
+  },
+  {
+    "name": "Namibia",
+    "code": "NAM",
+    "gdp": 12,
+    "dmFactor": 1.0,
+    "internetPct": 60,
+    "sadmWeight": 7.2,
+    "totalDemandMW": 10,
+    "sovereignMW": 8,
+    "commercialMW": 2,
+    "electricityTariff": 0.12,
+    "annualOpex": 29.4,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Johannesburg",
+    "d5Score": 4,
+    "d12Score": 3,
+    "policyReadiness": 3.5,
+    "d5Details": {
+      "dataProtection": {
+        "score": 3,
+        "label": "Draft DP Bill \u2014 not enacted"
+      },
+      "permitting": {
+        "score": 4,
+        "label": "6\u20139 months"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "65th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Very stable democracy"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Walvis Bay EPZ"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Electronic Transactions Act"
+      }
+    },
+    "d12Details": "Low crime, stable governance. Limited scale for standalone DC.",
+    "dmRationale": "Good governance, small population limits demand. Digital transformation strategy exists.",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 4,
+      "D3": 4,
+      "D4": 3,
+      "D5": 4,
+      "D6": 2,
+      "D7": 2,
+      "D8": 4,
+      "D9": 3,
+      "D10": 2,
+      "D11": 4
+    },
+    "avgDimensionScore": 3.2
+  },
+  {
+    "name": "Sudan",
+    "code": "SDN",
+    "gdp": 50,
+    "dmFactor": 0.5,
+    "internetPct": 28,
+    "sadmWeight": 7.0,
+    "totalDemandMW": 8,
+    "sovereignMW": 5,
+    "commercialMW": 3,
+    "electricityTariff": 0.03,
+    "annualOpex": 7.4,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Addis Ababa",
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">24 months \u2014 active conflict"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<10th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Civil war ongoing"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Active civil war. Infrastructure severely damaged.",
+    "dmRationale": "Civil war destroyed infrastructure. Demand deferred until peace.",
+    "dimensionScores": {
+      "D1": 5,
+      "D2": 2,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 3,
+      "D8": 1,
+      "D9": 1,
+      "D10": 2,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.7
+  },
+  {
+    "name": "Mozambique",
+    "code": "MOZ",
+    "gdp": 20,
+    "dmFactor": 0.5,
+    "internetPct": 21,
+    "sadmWeight": 2.1,
+    "totalDemandMW": 8,
+    "sovereignMW": 5,
+    "commercialMW": 3,
+    "electricityTariff": 0.11,
+    "annualOpex": 27.0,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Johannesburg",
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Draft law \u2014 not enacted"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201324 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "25th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Cabo Delgado insurgency"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Nacala SEZ limited"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic framework"
+      }
+    },
+    "d12Details": "Insurgency risk in north. Southern Maputo corridor is more stable.",
+    "dmRationale": "LNG revenues growing, Maputo corridor near South Africa, cable landings",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 2,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 2,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 2.0
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJI",
+    "gdp": 4,
+    "dmFactor": 1.0,
+    "internetPct": 65,
+    "sadmWeight": 2.6,
+    "totalDemandMW": 8,
+    "sovereignMW": 5,
+    "commercialMW": 3,
+    "electricityTariff": 0.22,
+    "annualOpex": 54.0,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Addis Ababa",
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 2.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "No comprehensive DP law"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "40th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 4,
+        "label": "International Free Trade Zone"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic framework"
+      }
+    },
+    "d12Details": "Strategic cable hub location. High tariffs offset by connectivity.",
+    "dmRationale": "Strategic cable hub (13+ submarine cables), military base presence drives connectivity",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 4,
+      "D3": 4,
+      "D4": 2,
+      "D5": 3,
+      "D6": 1,
+      "D7": 1,
+      "D8": 3,
+      "D9": 3,
+      "D10": 2,
+      "D11": 3
+    },
+    "avgDimensionScore": 2.5
+  },
+  {
+    "name": "Benin",
+    "code": "BEN",
+    "gdp": 18,
+    "dmFactor": 0.5,
+    "internetPct": 28,
+    "electricityTariff": 0.2,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.2,
+    "sharingHub": "Lagos",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 2017-20 on digital \u2014 partial DP"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "35th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Stable, consolidating"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Glo-Djigb\u00e9 GDIZ"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Digital Code 2017"
+      }
+    },
+    "d12Details": "Improving governance under Talon. Northern border insecurity from Sahel spillover.",
+    "dmRationale": "Glo-Djigb\u00e9 GDIZ, digital economy code, improving governance",
+    "sadmWeight": 2.5,
+    "totalDemandMW": 8,
+    "sovereignMW": 5,
+    "commercialMW": 3,
+    "annualOpex": 49.0,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 2,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.9
+  },
+  {
+    "name": "Mauritania",
+    "code": "MRT",
+    "gdp": 10,
+    "dmFactor": 0.5,
+    "internetPct": 40,
+    "electricityTariff": 0.12,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.5,
+    "sharingHub": "Casablanca",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 2017-020 \u2014 limited enforcement"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "25th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Nouadhibou FZ limited"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "Basic framework"
+      }
+    },
+    "d12Details": "Bridge between North and West Africa. Limited infrastructure. Gas revenues growing.",
+    "dmRationale": "Gas revenues could fund digital, Morocco gateway to West Africa",
+    "sadmWeight": 2.0,
+    "totalDemandMW": 7,
+    "sovereignMW": 5,
+    "commercialMW": 2,
+    "annualOpex": 29.4,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 3,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 1,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.9
+  },
+  {
+    "name": "Guinea",
+    "code": "GIN",
+    "gdp": 20,
+    "dmFactor": 0.5,
+    "internetPct": 28,
+    "electricityTariff": 0.18,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.2,
+    "sharingHub": "Abidjan",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No comprehensive DP law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<20th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Military government since 2021"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Nongo SEZ limited"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "Basic framework only"
+      }
+    },
+    "d12Details": "Military transitional government. Mineral wealth but weak digital infrastructure.",
+    "dmRationale": "Nascent digital economy, military rule",
+    "sadmWeight": 2.8,
+    "totalDemandMW": 6,
+    "sovereignMW": 4,
+    "commercialMW": 2,
+    "annualOpex": 44.1,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 2,
+      "D8": 1,
+      "D9": 1,
+      "D10": 2,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.4
+  },
+  {
+    "name": "Madagascar",
+    "code": "MDG",
+    "gdp": 15,
+    "dmFactor": 0.5,
+    "internetPct": 18,
+    "sadmWeight": 1.3,
+    "totalDemandMW": 6,
+    "sovereignMW": 4,
+    "commercialMW": 2,
+    "electricityTariff": 0.14,
+    "annualOpex": 34.3,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Mauritius",
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.8,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 2014-038 \u2014 limited enforcement"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "25th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Fragile stability"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "EPZ limited"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "Minimal"
+      }
+    },
+    "d12Details": "Island isolation adds logistics cost. Limited security infrastructure.",
+    "dmRationale": "Island isolation, EASSy cable access, Francophone digital initiatives",
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 1,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 2,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.8
+  },
+  {
+    "name": "Mali",
+    "code": "MLI",
+    "gdp": 19,
+    "dmFactor": 0.5,
+    "internetPct": 32,
+    "sadmWeight": 3.0,
+    "totalDemandMW": 5,
+    "sovereignMW": 3,
+    "commercialMW": 2,
+    "electricityTariff": 0.21,
+    "annualOpex": 51.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Abidjan",
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.2,
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No comprehensive law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<20th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Military government, active conflict"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Active conflict in north. Military government. High risk.",
+    "dmRationale": "Military government, ECOWAS suspended, demand deferred",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 2,
+      "D8": 1,
+      "D9": 1,
+      "D10": 2,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.4
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BFA",
+    "gdp": 20,
+    "dmFactor": 0.5,
+    "internetPct": 23,
+    "sadmWeight": 2.3,
+    "totalDemandMW": 5,
+    "sovereignMW": 3,
+    "commercialMW": 2,
+    "electricityTariff": 0.21,
+    "annualOpex": 51.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Abidjan",
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.2,
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "Law 010-2004 \u2014 non-enforced"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<20th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Military government, active conflict"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Active conflict. Military government. Very high risk.",
+    "dmRationale": "Military government, security crisis, demand deferred",
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 2,
+      "D8": 1,
+      "D9": 1,
+      "D10": 2,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.4
+  },
+  {
+    "name": "Malawi",
+    "code": "MWI",
+    "gdp": 15,
+    "dmFactor": 0.5,
+    "internetPct": 14,
+    "sadmWeight": 1.1,
+    "totalDemandMW": 5,
+    "sovereignMW": 3,
+    "commercialMW": 2,
+    "electricityTariff": 0.1,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Johannesburg",
+    "d5Score": 3,
+    "d12Score": 2,
+    "policyReadiness": 2.3,
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Electronic Transactions Act \u2014 partial"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "45th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Limited"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic"
+      }
+    },
+    "d12Details": "Low risk but very limited infrastructure.",
+    "dmRationale": "Digital Malawi strategy, small economy, SADC member",
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 1,
+      "D3": 2,
+      "D4": 2,
+      "D5": 3,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 2,
+      "D10": 2,
+      "D11": 3
+    },
+    "avgDimensionScore": 2.2
+  },
+  {
+    "name": "Togo",
+    "code": "TGO",
+    "gdp": 9,
+    "dmFactor": 0.5,
+    "internetPct": 25,
+    "electricityTariff": 0.19,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 2.0,
+    "sharingHub": "Accra",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Law 2019-014 \u2014 early enforcement"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "30th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Ad\u00e9tikop\u00e9 PIA limited"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Cybersecurity law 2018"
+      }
+    },
+    "d12Details": "Small market. Moderate security. Shares grid with Ghana.",
+    "dmRationale": "PIA Ad\u00e9tikop\u00e9, small ECOWAS market, Ghana sharing partner",
+    "sadmWeight": 1.1,
+    "totalDemandMW": 5,
+    "sovereignMW": 3,
+    "commercialMW": 2,
+    "annualOpex": 46.6,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 2,
+      "D4": 2,
+      "D5": 2,
+      "D6": 1,
+      "D7": 1,
+      "D8": 2,
+      "D9": 2,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.8
+  },
+  {
+    "name": "Republic of Congo",
+    "code": "COG",
+    "gdp": 15,
+    "dmFactor": 0.5,
+    "internetPct": 22,
+    "electricityTariff": 0.1,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.5,
+    "sharingHub": "Kinshasa",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No comprehensive DP law"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201324 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "20th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Stable but authoritarian"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Pointe-Noire SEZ limited"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Oil economy. Twin city with Kinshasa across river. Limited infrastructure.",
+    "dmRationale": "Oil economy, twin city with Kinshasa, ECCAS member",
+    "sadmWeight": 1.6,
+    "totalDemandMW": 5,
+    "sovereignMW": 3,
+    "commercialMW": 2,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 2,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 1,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.9
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GNQ",
+    "gdp": 12,
+    "dmFactor": 0.5,
+    "internetPct": 30,
+    "electricityTariff": 0.08,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.5,
+    "sharingHub": "Lagos",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "15th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Stable but highly authoritarian"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Malabo FTZ limited"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Oil wealth but opaque governance. Small population. Spanish-speaking CEMAC member.",
+    "dmRationale": "Oil wealth, minimal digital investment",
+    "sadmWeight": 1.8,
+    "totalDemandMW": 5,
+    "sovereignMW": 3,
+    "commercialMW": 2,
+    "annualOpex": 19.6,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 2,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 2,
+      "D8": 2,
+      "D9": 1,
+      "D10": 2,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.9
+  },
+  {
+    "name": "Somalia",
+    "code": "SOM",
+    "gdp": 10,
+    "dmFactor": 0.3,
+    "internetPct": 22,
+    "sadmWeight": 0.7,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "electricityTariff": 0.3,
+    "annualOpex": 73.6,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "sharingHub": "Nairobi",
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": "No functional process"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<5th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Active conflict, al-Shabaab"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Minimal infrastructure. Active conflict. Highest tariff on continent.",
+    "dmRationale": "Active conflict. Mogadishu has some mobile-first digital, connects via Nairobi",
+    "dimensionScores": {
+      "D1": 1,
+      "D2": 2,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 2,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.2
+  },
+  {
+    "name": "Niger",
+    "code": "NER",
+    "gdp": 15,
+    "dmFactor": 0.3,
+    "internetPct": 12,
+    "electricityTariff": 0.15,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Lagos",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<20th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Military government since 2023"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Military junta since July 2023. ECOWAS sanctions. Active jihadist threats in border regions.",
+    "dmRationale": "Minimal digital infrastructure, military rule",
+    "sadmWeight": 0.5,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 36.8,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 2,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.3
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SLE",
+    "gdp": 4,
+    "dmFactor": 0.3,
+    "internetPct": 18,
+    "electricityTariff": 0.25,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.2,
+    "sharingHub": "Abidjan",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No comprehensive DP law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "20th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Fragile stability"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "None functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Post-conflict stability but very limited infrastructure. Power supply unreliable.",
+    "dmRationale": "Minimal infrastructure",
+    "sadmWeight": 0.2,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 61.3,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.2
+  },
+  {
+    "name": "Liberia",
+    "code": "LBR",
+    "gdp": 4,
+    "dmFactor": 0.3,
+    "internetPct": 15,
+    "electricityTariff": 0.35,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Abidjan",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "15th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Fragile democracy"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "None functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Post-conflict recovery. ACE submarine cable landing. Highest electricity tariff tier.",
+    "dmRationale": "Minimal infrastructure",
+    "sadmWeight": 0.2,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 85.8,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 1,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.1
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "CPV",
+    "gdp": 2,
+    "dmFactor": 1.0,
+    "internetPct": 70,
+    "electricityTariff": 0.28,
+    "d5Score": 4,
+    "d12Score": 4,
+    "policyReadiness": 3.5,
+    "sharingHub": "Dakar",
+    "d5Details": {
+      "dataProtection": {
+        "score": 4,
+        "label": "Law 133/V/2001 \u2014 enforced"
+      },
+      "permitting": {
+        "score": 4,
+        "label": "6\u20139 months"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "70th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Stable democracy, high governance"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Mindelo Tech Hub"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Electronic Communications Law"
+      }
+    },
+    "d12Details": "Best governance in West Africa. Island nation, submarine cable hub. Small market limits standalone DC.",
+    "dmRationale": "Excellent governance, submarine cable hub, tiny market",
+    "sadmWeight": 1.4,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 68.7,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 1,
+      "D2": 5,
+      "D3": 4,
+      "D4": 3,
+      "D5": 4,
+      "D6": 1,
+      "D7": 1,
+      "D8": 4,
+      "D9": 3,
+      "D10": 1,
+      "D11": 4
+    },
+    "avgDimensionScore": 2.8
+  },
+  {
+    "name": "Chad",
+    "code": "TCD",
+    "gdp": 12,
+    "dmFactor": 0.3,
+    "internetPct": 14,
+    "electricityTariff": 0.2,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Lagos",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">24 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<15th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Military transitional government"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Military transitional government. Boko Haram threat in Lake Chad basin. Landlocked.",
+    "dmRationale": "Minimal infrastructure",
+    "sadmWeight": 0.5,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 49.0,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 2,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.2
+  },
+  {
+    "name": "South Sudan",
+    "code": "SSD",
+    "gdp": 8,
+    "dmFactor": 0.3,
+    "internetPct": 8,
+    "electricityTariff": 0.35,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Nairobi",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": "No functional process"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<5th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Post-civil war fragility"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "World's youngest nation. Post-civil war. Minimal infrastructure across all sectors.",
+    "dmRationale": "Minimal infrastructure",
+    "sadmWeight": 0.2,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 85.8,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 1,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.0
+  },
+  {
+    "name": "Eswatini",
+    "code": "SWZ",
+    "gdp": 5,
+    "dmFactor": 0.5,
+    "internetPct": 48,
+    "electricityTariff": 0.1,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.8,
+    "sharingHub": "Johannesburg",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Data Protection Act 2022 \u2014 new"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "30th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Absolute monarchy, civil unrest"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "RSTP limited"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Computer Crime Act 2022"
+      }
+    },
+    "d12Details": "Tiny landlocked monarchy. Dependent on South African grid. Recent civil unrest.",
+    "dmRationale": "Small market, dependent on South Africa",
+    "sadmWeight": 1.2,
+    "totalDemandMW": 3,
+    "sovereignMW": 2,
+    "commercialMW": 1,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 3,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 1,
+      "D8": 2,
+      "D9": 2,
+      "D10": 1,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.9
+  },
+  {
+    "name": "Gambia",
+    "code": "GMB",
+    "gdp": 2,
+    "dmFactor": 0.5,
+    "internetPct": 32,
+    "electricityTariff": 0.22,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.5,
+    "sharingHub": "Dakar",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Data Protection Bill pending"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "30th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Post-Jammeh democratic transition"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "None functional"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "ICT Act 2009 only"
+      }
+    },
+    "d12Details": "Small economy surrounded by Senegal. ACE cable landing.",
+    "dmRationale": "Minimal infrastructure, small market",
+    "sadmWeight": 0.3,
+    "totalDemandMW": 2,
+    "sovereignMW": 1,
+    "commercialMW": 1,
+    "annualOpex": 53.9,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 2,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 1,
+      "D8": 2,
+      "D9": 1,
+      "D10": 1,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.5
+  },
+  {
+    "name": "Burundi",
+    "code": "BDI",
+    "gdp": 3,
+    "dmFactor": 0.3,
+    "internetPct": 10,
+    "electricityTariff": 0.15,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Kigali",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">18 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<15th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Post-crisis, authoritarian"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "EAC member. Very limited infrastructure. Would benefit from Kigali shared hub.",
+    "dmRationale": "Nascent digital economy, EAC member",
+    "sadmWeight": 0.1,
+    "totalDemandMW": 2,
+    "sovereignMW": 1,
+    "commercialMW": 1,
+    "annualOpex": 36.8,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 3,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.2
+  },
+  {
+    "name": "Lesotho",
+    "code": "LSO",
+    "gdp": 3,
+    "dmFactor": 0.5,
+    "internetPct": 35,
+    "electricityTariff": 0.08,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.8,
+    "sharingHub": "Johannesburg",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Data Protection Act 2012"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "35th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Coalition government instability"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "None functional"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic provisions"
+      }
+    },
+    "d12Details": "Landlocked within South Africa. Fully dependent on SA infrastructure. Cheap hydro power.",
+    "dmRationale": "Small market, enclave of South Africa",
+    "sadmWeight": 0.5,
+    "totalDemandMW": 2,
+    "sovereignMW": 1,
+    "commercialMW": 1,
+    "annualOpex": 19.6,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 3,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 1,
+      "D8": 2,
+      "D9": 2,
+      "D10": 1,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.9
+  },
+  {
+    "name": "Seychelles",
+    "code": "SYC",
+    "gdp": 2,
+    "dmFactor": 1.0,
+    "internetPct": 78,
+    "electricityTariff": 0.25,
+    "d5Score": 4,
+    "d12Score": 4,
+    "policyReadiness": 3.8,
+    "sharingHub": "Mauritius",
+    "d5Details": {
+      "dataProtection": {
+        "score": 4,
+        "label": "Data Protection Act 2003 \u2014 enforced"
+      },
+      "permitting": {
+        "score": 4,
+        "label": "6\u20139 months"
+      },
+      "ruleOfLaw": {
+        "score": 4,
+        "label": "65th percentile"
+      },
+      "politicalStability": {
+        "score": 5,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 3,
+        "label": "Eden Island, Port Victoria zones"
+      },
+      "cyberLaw": {
+        "score": 3,
+        "label": "Computer Misuse Act"
+      }
+    },
+    "d12Details": "Tiny island economy. Excellent governance. SEAS cable. Tourism-dependent.",
+    "dmRationale": "High governance, minimal market size",
+    "sadmWeight": 1.6,
+    "totalDemandMW": 2,
+    "sovereignMW": 1,
+    "commercialMW": 1,
+    "annualOpex": 61.3,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 5,
+      "D3": 4,
+      "D4": 3,
+      "D5": 4,
+      "D6": 1,
+      "D7": 1,
+      "D8": 4,
+      "D9": 3,
+      "D10": 1,
+      "D11": 4
+    },
+    "avgDimensionScore": 2.9
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GNB",
+    "gdp": 2,
+    "dmFactor": 0.3,
+    "internetPct": 10,
+    "electricityTariff": 0.3,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Dakar",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": ">24 months"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<10th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Chronic political instability"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Chronic political instability. Narco-state risk. Minimal digital infrastructure.",
+    "dmRationale": "Minimal infrastructure",
+    "sadmWeight": 0.1,
+    "totalDemandMW": 1,
+    "sovereignMW": 1,
+    "commercialMW": 0,
+    "annualOpex": 73.6,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 1,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.0
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CAF",
+    "gdp": 3,
+    "dmFactor": 0.3,
+    "internetPct": 8,
+    "electricityTariff": 0.25,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Kinshasa",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": "No functional process"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<5th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Active conflict, Wagner/Africa Corps presence"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Active conflict. Russian paramilitary presence. Near-zero digital infrastructure.",
+    "dmRationale": "Minimal infrastructure",
+    "sadmWeight": 0.1,
+    "totalDemandMW": 1,
+    "sovereignMW": 1,
+    "commercialMW": 0,
+    "annualOpex": 61.3,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.1
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "code": "STP",
+    "gdp": 1,
+    "dmFactor": 0.5,
+    "internetPct": 36,
+    "electricityTariff": 0.22,
+    "d5Score": 3,
+    "d12Score": 3,
+    "policyReadiness": 2.0,
+    "sharingHub": "Lagos",
+    "d5Details": {
+      "dataProtection": {
+        "score": 2,
+        "label": "Basic data provisions in constitution"
+      },
+      "permitting": {
+        "score": 3,
+        "label": "6\u201312 months"
+      },
+      "ruleOfLaw": {
+        "score": 3,
+        "label": "45th percentile"
+      },
+      "politicalStability": {
+        "score": 3,
+        "label": "Stable democracy"
+      },
+      "sezIncentives": {
+        "score": 2,
+        "label": "Limited"
+      },
+      "cyberLaw": {
+        "score": 2,
+        "label": "Basic"
+      }
+    },
+    "d12Details": "Tiny island nation. Good governance for size. Submarine cable access.",
+    "dmRationale": "Minimal market size",
+    "sadmWeight": 0.2,
+    "totalDemandMW": 1,
+    "sovereignMW": 1,
+    "commercialMW": 0,
+    "annualOpex": 53.9,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 3,
+      "D3": 2,
+      "D4": 2,
+      "D5": 3,
+      "D6": 1,
+      "D7": 1,
+      "D8": 2,
+      "D9": 2,
+      "D10": 1,
+      "D11": 3
+    },
+    "avgDimensionScore": 2.0
+  },
+  {
+    "name": "Eritrea",
+    "code": "ERI",
+    "gdp": 3,
+    "dmFactor": 0.3,
+    "internetPct": 8,
+    "electricityTariff": 0.1,
+    "d5Score": 1,
+    "d12Score": 1,
+    "policyReadiness": 1.0,
+    "sharingHub": "Addis Ababa",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 1,
+        "label": "No private sector process"
+      },
+      "ruleOfLaw": {
+        "score": 1,
+        "label": "<10th percentile"
+      },
+      "politicalStability": {
+        "score": 1,
+        "label": "Highly authoritarian, closed economy"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "Non-existent"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Most isolated country in Africa. State controls all telecoms. No private DC feasible.",
+    "dmRationale": "Closed economy, no private investment",
+    "sadmWeight": 0.1,
+    "totalDemandMW": 1,
+    "sovereignMW": 1,
+    "commercialMW": 0,
+    "annualOpex": 24.5,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 4,
+      "D2": 1,
+      "D3": 1,
+      "D4": 1,
+      "D5": 1,
+      "D6": 1,
+      "D7": 1,
+      "D8": 1,
+      "D9": 1,
+      "D10": 1,
+      "D11": 1
+    },
+    "avgDimensionScore": 1.3
+  },
+  {
+    "name": "Comoros",
+    "code": "COM",
+    "gdp": 1,
+    "dmFactor": 0.5,
+    "internetPct": 18,
+    "electricityTariff": 0.25,
+    "d5Score": 2,
+    "d12Score": 2,
+    "policyReadiness": 1.5,
+    "sharingHub": "Nairobi",
+    "d5Details": {
+      "dataProtection": {
+        "score": 1,
+        "label": "No data protection law"
+      },
+      "permitting": {
+        "score": 2,
+        "label": "12\u201318 months"
+      },
+      "ruleOfLaw": {
+        "score": 2,
+        "label": "25th percentile"
+      },
+      "politicalStability": {
+        "score": 2,
+        "label": "Fragile stability"
+      },
+      "sezIncentives": {
+        "score": 1,
+        "label": "None"
+      },
+      "cyberLaw": {
+        "score": 1,
+        "label": "No framework"
+      }
+    },
+    "d12Details": "Island archipelago. EAF submarine cable access. Very small market.",
+    "dmRationale": "Minimal market size",
+    "sadmWeight": 0.1,
+    "totalDemandMW": 1,
+    "sovereignMW": 1,
+    "commercialMW": 0,
+    "annualOpex": 61.3,
+    "meetsMVS": false,
+    "recDCs": 0,
+    "dimensionScores": {
+      "D1": 2,
+      "D2": 1,
+      "D3": 2,
+      "D4": 1,
+      "D5": 2,
+      "D6": 1,
+      "D7": 1,
+      "D8": 2,
+      "D9": 1,
+      "D10": 1,
+      "D11": 2
+    },
+    "avgDimensionScore": 1.5
+  }
+]
