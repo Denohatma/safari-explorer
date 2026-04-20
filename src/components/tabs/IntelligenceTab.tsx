@@ -148,11 +148,11 @@ function SectorSummary() {
           <div className="bg-safari-green flex items-center justify-center text-[8px] text-white font-bold" style={{ width: `${(sectorOutlook.africaMarket.activeCapacityMW / sectorOutlook.africaMarket.installedCapacityMW) * 100}%` }}>
             {sectorOutlook.africaMarket.activeCapacityMW}
           </div>
-          <div className="bg-safari-blue flex items-center justify-center text-[8px] text-white font-bold" style={{ width: `${(238 / sectorOutlook.africaMarket.installedCapacityMW) * 100}%` }}>
-            238
+          <div className="bg-safari-blue flex items-center justify-center text-[8px] text-white font-bold" style={{ width: `${(sectorOutlook.africaMarket.underConstructionMW / sectorOutlook.africaMarket.installedCapacityMW) * 100}%` }}>
+            {sectorOutlook.africaMarket.underConstructionMW}
           </div>
-          <div className="bg-safari-orange flex items-center justify-center text-[8px] text-white font-bold" style={{ width: `${(656 / sectorOutlook.africaMarket.installedCapacityMW) * 100}%` }}>
-            656
+          <div className="bg-safari-orange flex items-center justify-center text-[8px] text-white font-bold" style={{ width: `${(sectorOutlook.africaMarket.pipelineMW / sectorOutlook.africaMarket.installedCapacityMW) * 100}%` }}>
+            {sectorOutlook.africaMarket.pipelineMW}
           </div>
         </div>
         <div className="flex justify-between text-[8px] text-gray-400 mt-1">

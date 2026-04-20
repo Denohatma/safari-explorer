@@ -3,8 +3,7 @@ import { MapContainer } from '../Map/MapContainer'
 import { DataTable } from '../Tables/DataTable'
 import { StatCard } from '../StatCard'
 import { STATUS_COLORS, TIER_COLORS } from '../../utils/colors'
-import { scoreColor } from '../../utils/colors'
-import { formatMW, formatCurrency, formatScore } from '../../utils/formatters'
+import { formatMW, formatCurrency } from '../../utils/formatters'
 import { createColumnHelper } from '@tanstack/react-table'
 import type { Facility, Country, HubLink, TabId } from '../../types'
 
@@ -53,11 +52,12 @@ const infraColumns = [
     const v = i.getValue()
     return <span style={{ color: v > 0 ? '#ef4444' : '#228B22' }}>{formatCurrency(v)}</span>
   }}),
-  facCol.accessor('wlcScore', {
-    header: 'WLC',
+  facCol.accessor(row => row.mwCapacity > 0 ? row.capex / row.mwCapacity : 0, {
+    id: 'dollarPerMW',
+    header: '$/MW',
     cell: i => {
       const v = i.getValue()
-      return <span className="font-bold" style={{ color: scoreColor(v) }}>{formatScore(v)}</span>
+      return <span className="font-bold">{formatCurrency(v)}</span>
     },
   }),
   facCol.accessor('tier', { header: 'Tier', cell: i => <span className="font-medium" style={{ color: TIER_COLORS[i.getValue()] }}>T{i.getValue()}</span> }),

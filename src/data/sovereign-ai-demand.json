@@ -80,12 +80,12 @@
     "tier2Count": 9,
     "tier3Count": 9,
     "tier4Count": 30,
-    "totalDemandMW": 2086,
+    "totalDemandMW": 2088,
     "totalSovereignMW": 856,
     "totalCapexBn": 20.9,
     "countriesWithAIStrategy": 18,
-    "countriesThatCanSelfHost": 15,
-    "countriesThatNeedSharing": 39
+    "countriesThatCanSelfHost": 10,
+    "countriesThatNeedSharing": 44
   },
   "regionalGroupings": {
     "EAC": {
@@ -155,7 +155,7 @@
         "Johannesburg",
         "Cape Town"
       ],
-      "totalDemandMW": 591
+      "totalDemandMW": 592
     },
     "ECCAS": {
       "name": "Economic Community of Central African States",
@@ -188,7 +188,7 @@
         "Cairo",
         "Tunis"
       ],
-      "totalDemandMW": 312
+      "totalDemandMW": 313
     },
     "IGAD": {
       "name": "Intergovernmental Authority on Development",
@@ -306,7 +306,7 @@
       "name": "Algeria",
       "iso3": "DZA",
       "tier": 1,
-      "estimatedTotalDemandMW": 110,
+      "estimatedTotalDemandMW": 111,
       "estimatedSovereignDemandMW": 39,
       "estimatedCommercialDemandMW": 72,
       "canIndependentlyHost": true,
@@ -402,8 +402,8 @@
       "estimatedTotalDemandMW": 39,
       "estimatedSovereignDemandMW": 14,
       "estimatedCommercialDemandMW": 25,
-      "canIndependentlyHost": true,
-      "sharingPartnerHub": null,
+      "canIndependentlyHost": false,
+      "sharingPartnerHub": "Accra",
       "regionalBlocs": [
         "ECOWAS"
       ],
@@ -425,8 +425,8 @@
       "estimatedTotalDemandMW": 39,
       "estimatedSovereignDemandMW": 14,
       "estimatedCommercialDemandMW": 25,
-      "canIndependentlyHost": true,
-      "sharingPartnerHub": null,
+      "canIndependentlyHost": false,
+      "sharingPartnerHub": "Nairobi",
       "regionalBlocs": [
         "EAC"
       ],
@@ -495,8 +495,8 @@
       "estimatedTotalDemandMW": 33,
       "estimatedSovereignDemandMW": 12,
       "estimatedCommercialDemandMW": 21,
-      "canIndependentlyHost": true,
-      "sharingPartnerHub": null,
+      "canIndependentlyHost": false,
+      "sharingPartnerHub": "Casablanca",
       "regionalBlocs": [
         "AMU"
       ],
@@ -518,8 +518,8 @@
       "estimatedTotalDemandMW": 32,
       "estimatedSovereignDemandMW": 11,
       "estimatedCommercialDemandMW": 21,
-      "canIndependentlyHost": true,
-      "sharingPartnerHub": null,
+      "canIndependentlyHost": false,
+      "sharingPartnerHub": "Nairobi",
       "regionalBlocs": [
         "IGAD"
       ],
@@ -541,8 +541,8 @@
       "estimatedTotalDemandMW": 31,
       "estimatedSovereignDemandMW": 11,
       "estimatedCommercialDemandMW": 20,
-      "canIndependentlyHost": true,
-      "sharingPartnerHub": null,
+      "canIndependentlyHost": false,
+      "sharingPartnerHub": "Abidjan",
       "regionalBlocs": [
         "ECOWAS"
       ],
@@ -724,7 +724,7 @@
       "name": "Botswana",
       "iso3": "BWA",
       "tier": 3,
-      "estimatedTotalDemandMW": 10,
+      "estimatedTotalDemandMW": 11,
       "estimatedSovereignDemandMW": 4,
       "estimatedCommercialDemandMW": 7,
       "canIndependentlyHost": false,

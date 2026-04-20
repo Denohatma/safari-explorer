@@ -13,6 +13,8 @@
       "cagrPct": 11.8,
       "installedCapacityMW": 1254,
       "activeCapacityMW": 360,
+      "underConstructionMW": 238,
+      "pipelineMW": 656,
       "globalSharePct": 0.6,
       "facilitiesCount": "220–230",
       "countriesWithFacilities": 38,
