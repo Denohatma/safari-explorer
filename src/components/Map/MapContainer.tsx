@@ -153,9 +153,9 @@ export function MapContainer({ tab, facilities, countries, hubLinks, choroplethM
         source: 'hub-links',
         paint: {
           'line-color': '#00BFFF',
-          'line-width': 2,
+          'line-width': 0.8,
           'line-dasharray': [4, 4],
-          'line-opacity': 0.7,
+          'line-opacity': 0.5,
         },
       })
 
